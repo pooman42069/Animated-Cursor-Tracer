@@ -4,6 +4,9 @@ This is a simple project i made in school to draw an animated cursor tracer for 
 
 Made by Lukey.
 
+For an example visit:
+https://www.dropclub.lol
+
 ## Installation
 
 Link the script any-where in your html project
